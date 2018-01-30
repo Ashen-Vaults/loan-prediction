@@ -82,6 +82,9 @@ celerybeat-schedule
 # dotenv
 .env
 
+# dotidea
+.idea/
+
 # virtualenv
 .venv
 venv/
